@@ -1,0 +1,27 @@
+﻿SecurityID,ProviderSymbol,ProviderName,Currency,Exchange,Price,FXtoCAD,PriceDate,QuoteTimestamp,FXDate,Status,Error
+AAPL_CDR,AAPL.TO,Apple Inc.,CAD,TOR,49.02,1,2026-10-29,2026-10-29T19:59:59+00:00,2026-10-29,OK,
+AC_ORD,AC.TO,Air Canada,CAD,TOR,21.87,1,2026-10-29,2026-10-29T20:00:00+00:00,2026-10-29,OK,
+AMZN_CDR,AMZN.TO,"Amazon.com, Inc.",CAD,TOR,27.73,1,2026-10-29,2026-10-29T19:59:59+00:00,2026-10-29,OK,
+BLN_ORD,BLN.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+BMO_ORD,BMO.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+BN_ORD,BN.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+CASH_ORD,CASH.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+CJP_ORD,CJP.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+CPX_ORD,CPX.TO,Capital Power Corporation,CAD,TOR,63.44,1,2026-10-29,2026-10-29T20:00:01+00:00,2026-10-29,OK,
+ENB_ORD,ENB.TO,Enbridge Inc.,CAD,TOR,68.9,1,2026-10-29,2026-10-29T20:00:00+00:00,2026-10-29,OK,
+FINN_ORD,FINN.NE,Fidelity Global Innovators ETF Series L,CAD,NEO,33.32,1,2026-10-29,2026-10-29T19:59:41+00:00,2026-10-29,OK,
+GOOG_CDR,GOOG.TO;GOOG.NE,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+NVDA_CDR,NVDA.TO,NVIDIA Corporation,CAD,TOR,47.5,1,2026-10-29,2026-10-29T19:59:59+00:00,2026-10-29,OK,
+OKLO_ORD,OKLO,Oklo Inc.,USD,NYQ,26.81,1.3989,2026-10-29,2026-10-29T20:00:02+00:00,2026-10-29,OK,
+PLTR_ORD,PLTR,,USD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+QQC_ORD,QQC.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+RY_ORD,RY.TO,Royal Bank of Canada,CAD,TOR,288.21,1,2026-10-29,2026-10-29T20:00:00+00:00,2026-10-29,OK,
+TD_ORD,TD.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+TEC_ORD,TEC.TO,TD Global Technology Leaders Index ETF,CAD,TOR,61.54,1,2026-10-29,2026-10-29T19:59:29+00:00,2026-10-29,OK,
+UPS_ORD,UPS,"United Parcel Service, Inc.",USD,NYQ,107.33,1.3989,2026-10-29,2026-10-29T20:02:58+00:00,2026-10-29,OK,
+VCN_ORD,VCN.TO,Vanguard FTSE Canada All Cap Index ETF,CAD,TOR,73.75,1,2026-10-29,2026-10-29T19:59:45+00:00,2026-10-29,OK,
+VDY_ORD,VDY.TO,Vanguard FTSE Canadian High Dividend Yield Index ETF,CAD,TOR,79.48,1,2026-10-29,2026-10-29T19:59:39+00:00,2026-10-29,OK,
+VFV_ORD,VFV.TO,Vanguard S&P 500 Index ETF,CAD,TOR,191.57,1,2026-10-29,2026-10-29T19:59:48+00:00,2026-10-29,OK,
+XEI_ORD,XEI.TO,,CAD,,,,,,,NOT_REQUIRED,Closed position; no current quote needed
+XEQT_ORD,XEQT.TO,iShares Core Equity ETF Portfolio,CAD,TOR,45.42,1,2026-10-29,2026-10-29T19:58:59+00:00,2026-10-29,OK,
+ZMMK_ORD,ZMMK.TO,BMO Mutual Funds - BMO Money Market Fund,CAD,TOR,49.82,1,2026-10-29,2026-10-29T19:59:59+00:00,2026-10-29,OK,

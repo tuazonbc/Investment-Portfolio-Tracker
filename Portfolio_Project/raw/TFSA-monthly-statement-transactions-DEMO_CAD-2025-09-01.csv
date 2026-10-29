@@ -1,0 +1,7 @@
+"date","transaction","description","amount","balance","currency"
+"2025-09-04","BUY","AMZN - Amazon.com CDR (CAD Hedged): Bought 3.0000 shares (executed at 2025-09-03)","-78.96","1014.75","CAD"
+"2025-09-04","DIV","ZMMK - BMO Money Market Fund ETF: Cash dividend distribution, received on 2025-09-04, record date of 2025-08-28","8.77","1023.52","CAD"
+"2025-09-08","BUY","ZMMK - BMO Money Market Fund ETF: Bought 0.1758 shares (executed at 2025-09-05)","-8.77","1014.75","CAD"
+"2025-09-09","DIV","VDY - Vanguard FTSE Canadian High Dividend Yield Index ETF: Cash dividend distribution, received on 2025-09-09, record date of 2025-09-02","1.64","1016.39","CAD"
+"2025-09-10","BUY","VDY - Vanguard FTSE Canadian High Dividend Yield Index ETF: Bought 0.0292 shares (executed at 2025-09-09)","-1.64","1014.75","CAD"
+"2025-09-29","DIV","XEQT - iShares Core Equity ETF Portfolio: Cash dividend distribution, received on 2025-09-29, record date of 2025-09-24","12.05","1026.8","CAD"

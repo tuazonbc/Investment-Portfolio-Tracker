@@ -1,0 +1,4 @@
+"date","transaction","description","amount","balance","currency"
+"2025-06-03","DIV","ZMMK - BMO Money Market Fund ETF: Cash dividend distribution, received on 2025-06-03, record date of 2025-05-29","15.05","76.17","CAD"
+"2025-06-05","BUY","ZMMK - BMO Money Market Fund ETF: Bought 0.3017 shares (executed at 2025-06-04)","-15.05","61.12","CAD"
+"2025-06-30","DIV","XEQT - iShares Core Equity ETF Portfolio: Cash dividend distribution, received on 2025-06-30, record date of 2025-06-25","31.94","93.06","CAD"

@@ -1,0 +1,18 @@
+﻿File,Rows,Action,DuplicateOf,SHA256
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-07-01.csv,39,Imported,,c047307c7893d34bbe6d56e893bece76b5b10990e96700c8485bee4b13398f98
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-08-01.csv,17,Imported,,a26f88a0b844a2166ff995cf5630257c92f7d548d77587ba05acfe99218d40a8
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-09-01.csv,17,Imported,,455f50d08ed5106039a840f1c5d6a750f155c470bd605738fc08bb4290ad96fe
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-10-01.csv,19,Imported,,d2775263af391151201a9c23a4844f9c0d20ac1776ebe50ef6443d6ea2402cbb
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-11-01 (1).csv,13,Imported,,42f2cc829b0e91ab1cd9e50bdc44fa6d76475e8a2c7163c8a9786f2adafe25d3
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-11-01.csv,13,Skipped identical file,TFSA-monthly-statement-transactions-DEMO_CAD-2024-11-01 (1).csv,42f2cc829b0e91ab1cd9e50bdc44fa6d76475e8a2c7163c8a9786f2adafe25d3
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-12-01.csv,11,Imported,,13766417c2fdddced753976376eb65bf7724d733e7006a98d7f64e22021c9507
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-01-01.csv,23,Imported,,5dc9e93b165eb3dd0e60720e7f13b80d7db7c831659a1c3c86fd72ead404f128
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-02-01.csv,39,Imported,,04c4745807c7d737b4f82461c207389bce9bf0818d868d71c0f04ff51397a9b1
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-03-01.csv,10,Imported,,85321ef573dd03f6860307f08f18b507f6b97269a93712de6dd91b9cbb4bbf9f
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-04-01.csv,16,Imported,,5f873d3141ce4f4c433a8258f52284c08058ffa840f9e7479fd01ce426660c46
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-05-01.csv,7,Imported,,6a509ec55c0980f5206b353429e2d179d5067d08ad5d50eed336b107455d2d2d
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-06-01.csv,3,Imported,,c53cadb47404f9afcb6e150643e14b7fe14f16043ba0be1afb7168f481364bfb
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-07-01.csv,11,Imported,,43faf4b92725063dc301b714c2c0e59bef043a2a6b4ba15a23cd6b62209d44d3
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-08-01.csv,16,Imported,,cec8e645d156eb5dc6c626c0784eb82b63269320e86976bb965250158c64c74d
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-09-01.csv,6,Imported,,d9f757c55e8291f6c4ae968d6087c0b7bedbeb598dc02546e710348ee069e8a5
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-10-01.csv,22,Imported,,6717b944e0eca9f86c8e729c2dd6fe898a737be1c07de188a4ccb842508aa194

@@ -1,0 +1,8 @@
+"date","transaction","description","amount","balance","currency"
+"2025-05-02","DIV","ZMMK - BMO Money Market Fund ETF: Cash dividend distribution, received on 2025-05-02, record date of 2025-04-29","18.75","79.86","CAD"
+"2025-05-06","BUY","ZMMK - BMO Money Market Fund ETF: Bought 0.3759 shares (executed at 2025-05-05)","-18.75","61.11","CAD"
+"2025-05-23","DIV","AAPL - Apple CDR (CAD Hedged) : Cash dividend distribution, received on 2025-05-23, record date of 2025-05-12","0.53","61.64","CAD"
+"2025-05-23","NRT","Non-resident tax (executed at 2025-05-23)","-0.08","61.56","CAD"
+"2025-05-23","DIV","RY - Royal Bank Of Canada: Cash dividend distribution, received on 2025-05-23, record date of 2025-04-24","2.96","64.52","CAD"
+"2025-05-26","BUY","AAPL - Apple CDR (CAD Hedged) : Bought 0.0158 shares (executed at 2025-05-23)","-0.45","64.07","CAD"
+"2025-05-27","BUY","RY - Royal Bank Of Canada: Bought 0.0167 shares (executed at 2025-05-26)","-2.95","61.12","CAD"

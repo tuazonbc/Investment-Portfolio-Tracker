@@ -1,0 +1,4 @@
+﻿SourceFile,SourceRow,Issue,Description
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-08-01.csv,6,Cash balance differs from running cash by 0.07,Non-resident tax (executed at 2024-08-22)
+TFSA-monthly-statement-transactions-DEMO_CAD-2024-10-01.csv,11,Cash balance differs from running cash by 0.04,Non-resident tax (executed at 2024-10-10)
+TFSA-monthly-statement-transactions-DEMO_CAD-2025-02-01.csv,17,Cash balance differs from running cash by -0.05,"AAPL - Apple CDR (CAD Hedged) : Cash dividend distribution, received on 2025-02-21, record date of 2025-02-10"

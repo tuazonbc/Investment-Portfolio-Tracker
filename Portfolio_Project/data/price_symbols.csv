@@ -1,0 +1,27 @@
+﻿SecurityID,ProviderSymbol,ExpectedCurrency,ExpectedNameToken,AssetType,ActiveFlag
+AAPL_CDR,AAPL.TO;AAPL.NE,CAD,Apple,CDR,1
+AC_ORD,AC.TO,CAD,Air Canada,Equity,1
+AMZN_CDR,AMZN.TO;AMZN.NE,CAD,Amazon,CDR,1
+BLN_ORD,BLN.TO,CAD,Blackline,Equity,0
+BMO_ORD,BMO.TO,CAD,Montreal,Equity,0
+BN_ORD,BN.TO,CAD,Brookfield,Equity,0
+CASH_ORD,CASH.TO,CAD,Interest,ETF,0
+CJP_ORD,CJP.TO,CAD,Japan,ETF,0
+CPX_ORD,CPX.TO,CAD,Capital Power,Equity,1
+ENB_ORD,ENB.TO,CAD,Enbridge,Equity,1
+FINN_ORD,FINN.NE,CAD,Fidelity,ETF,1
+GOOG_CDR,GOOG.TO;GOOG.NE,CAD,Alphabet,CDR,0
+NVDA_CDR,NVDA.TO;NVDA.NE,CAD,NVIDIA,CDR,1
+OKLO_ORD,OKLO,USD,Oklo,Equity,1
+PLTR_ORD,PLTR,USD,Palantir,Equity,0
+QQC_ORD,QQC.TO,CAD,Invesco,ETF,0
+RY_ORD,RY.TO,CAD,Royal Bank,Equity,1
+TD_ORD,TD.TO,CAD,Toronto,Equity,0
+TEC_ORD,TEC.TO,CAD,Technology,ETF,1
+UPS_ORD,UPS,USD,United Parcel,Equity,1
+VCN_ORD,VCN.TO,CAD,Vanguard,ETF,1
+VDY_ORD,VDY.TO,CAD,Vanguard,ETF,1
+VFV_ORD,VFV.TO,CAD,Vanguard,ETF,1
+XEI_ORD,XEI.TO,CAD,iShares,ETF,0
+XEQT_ORD,XEQT.TO,CAD,iShares,ETF,1
+ZMMK_ORD,ZMMK.TO,CAD,Money Market,ETF,1
